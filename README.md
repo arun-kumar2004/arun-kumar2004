@@ -299,7 +299,7 @@ AI-based approach to managing lost and found items.
 - Google Play Store Listing
 - AWS Academy — Cloud Foundations
 
-> Certificate links: **YOUR_CERTIFICATE_URL**
+
 
 <br>
 
