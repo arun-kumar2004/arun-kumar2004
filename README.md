@@ -253,13 +253,16 @@ AI-based approach to managing lost and found items.
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arun-kumar2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-kumar2004&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-kumar2004&theme=tokyonight&hide_border=true" width="49%" />
+### 🔥 GitHub Contributions
 
-<img src="https://github-profile-trophy.vercel.app/?username=arun-kumar2004&theme=darkhub&no-frame=true&row=1&column=6" width="80%" />
-</div>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=arun-kumar2004&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="GitHub Contribution Graph"
+/>
+
+<br><br>
 
 ## 📈 Contribution Journey
 
